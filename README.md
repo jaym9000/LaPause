@@ -1,2 +1,2 @@
 # LaPause
-Project to help family member out
+Daycare project to help families in need
